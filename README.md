@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Unity 3d as professional**
 
-- 👨‍💻 All of my projects are available at [http://othman.blazestudiosd.com/](http://othman.blazestudiosd.com/)
+- 👨‍💻 All of my projects are available at [http://OsmanYousif.com/](http:/OsmanYousif.com/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/osman-yusuf/](https://www.linkedin.com/in/osman-yusuf/)
 
