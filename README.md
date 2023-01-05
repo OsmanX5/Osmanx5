@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmanx5&label=Profile%20views&color=0e75b6&style=flat" alt="osmanx5" /> </p>
 
-- 🔭 I’m currently working on [Pirates attack](https://github.com/OsmanX5/PiratesAttack)
+- 🔭 I’m currently working on [Electrical Lab](https://github.com/OsmanX5/Electrical-LAB)
 
 - 🌱 I’m currently learning **Unity 3d as professional**
 
